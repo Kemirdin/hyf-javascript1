@@ -4,7 +4,7 @@
 //2.1 Copy the code in your.js file and run it.You will see that you will get a SyntaxError
 console.log ('I'm awesome');
 
-// After solved the solution
+// After solved the problem
 'use strict';
 
 //2- console.log('I'm awesome');
