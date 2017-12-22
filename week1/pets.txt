@@ -1,0 +1,8 @@
+cat
+dog
+iguana
+spider
+fish
+rabbit
+mouse
+snake
