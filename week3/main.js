@@ -32,7 +32,7 @@ favoriteAnimals.push ('turtle');
 //2.2 Log your new array!
 
 
-console.log(myFavoriteAnimals);
+console.log(FavoriteAnimals);
 //2.3 Now add Jim's favorite animal to the array, its a 'meerkat', but make sure it will be placed after 'blowfish' and before 'capricorn'.
 
 
